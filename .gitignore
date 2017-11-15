@@ -1,0 +1,18 @@
+# Don't check auto-generated stuff into git
+server
+appveyor.yml
+package.json
+package-lock.json
+internals
+app
+coverage
+node_modules
+stats.json
+README.md
+LICENSE.md
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.vscode
